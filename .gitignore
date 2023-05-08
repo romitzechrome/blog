@@ -1,0 +1,12 @@
+env
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*/*/*/*/__pycache__
+*/migrations
+*/*/migrations
+*/*/*/migrations
+/venv
+.env
+.log
+Post.postman_collection.json
